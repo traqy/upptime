@@ -5,4 +5,17 @@ repo: upptime # The name of this repository
 sites:
   - name: TechinAsia
     url: https://www.techinasia.com
+  - name: TechinAsia_Conference
+    url: https://conference.techinasia.com
+  - name: TechinAsia_PDC
+    url: https://pdc.techinasia.com
+  - name: TechinAsia_Advertise
+    url: https://advertise.techinasia.com
+  - name: TechinAsia_Sync
+    url: https://sync.techinasia.com
+  - name: TechinAsia_AWS
+    url: https://aws.techinasia.com
+  - name: TechinAsia_Saigon
+    url: https://saigon.techinasia.com
+
 
