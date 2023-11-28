@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1274,
     "timeDay": 1274,
     "timeWeek": 1274,
     "timeMonth": 1274,
     "timeYear": 1274,
-    "dailyMinutesDown": {
-      "2023-11-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TechinAsia_WordPress_API",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 619,
     "timeWeek": 619,
     "timeMonth": 619,
     "timeYear": 619,
-    "dailyMinutesDown": {
-      "2023-11-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TechinAsia_Laravel_API",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2337,
     "timeDay": 2337,
     "timeWeek": 2337,
     "timeMonth": 2337,
     "timeYear": 2337,
-    "dailyMinutesDown": {
-      "2023-11-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TechinAsia_Conference",
