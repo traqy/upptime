@@ -145,19 +145,19 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "72.29%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
-    "time": 14218,
-    "timeDay": 21666,
-    "timeWeek": 19349,
-    "timeMonth": 14218,
-    "timeYear": 14218,
+    "status": "up",
+    "uptime": "99.00%",
+    "uptimeDay": "71.90%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 14238,
+    "timeDay": 21458,
+    "timeWeek": 19242,
+    "timeMonth": 14238,
+    "timeYear": 14238,
     "dailyMinutesDown": {
-      "2023-12-25": 399
+      "2023-12-25": 405
     }
   },
   {
