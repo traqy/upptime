@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
     "status": "up",
-    "uptime": "95.04%",
+    "uptime": "95.05%",
     "uptimeDay": "96.82%",
     "uptimeWeek": "96.13%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "95.04%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
     "time": 1277,
     "timeDay": 1290,
     "timeWeek": 1275,
@@ -146,18 +146,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 8809,
     "timeDay": 21850,
     "timeWeek": 13797,
     "timeMonth": 8809,
     "timeYear": 8809,
     "dailyMinutesDown": {
-      "2023-12-25": 25
+      "2023-12-25": 31
     }
   },
   {
@@ -165,19 +165,19 @@
     "url": "https://pdc.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/pdc.techinasia.com.ico",
     "slug": "techin-asia-pdc",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2189,
-    "timeDay": 8181,
-    "timeWeek": 2973,
-    "timeMonth": 2189,
-    "timeYear": 2189,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2192,
+    "timeDay": 5238,
+    "timeWeek": 2888,
+    "timeMonth": 2192,
+    "timeYear": 2192,
     "dailyMinutesDown": {
-      "2023-12-25": 8
+      "2023-12-25": 14
     }
   },
   {
@@ -186,19 +186,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/advertise.techinasia.com.ico",
     "slug": "techin-asia-advertise",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4088,
     "timeDay": 19278,
     "timeWeek": 9025,
     "timeMonth": 4088,
     "timeYear": 4088,
-    "dailyMinutesDown": {
-      "2023-12-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TechinAsia_Sync",
@@ -242,18 +240,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/saigon.techinasia.com.ico",
     "slug": "techin-asia-saigon",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1659,
     "timeDay": 5454,
     "timeWeek": 2555,
     "timeMonth": 1659,
     "timeYear": 1659,
-    "dailyMinutesDown": {
-      "2023-12-25": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
