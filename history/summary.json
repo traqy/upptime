@@ -145,19 +145,19 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "74.18%",
-    "uptimeWeek": "96.31%",
+    "uptimeDay": "74.05%",
+    "uptimeWeek": "96.29%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.08%",
-    "time": 13798,
-    "timeDay": 22062,
-    "timeWeek": 19254,
-    "timeMonth": 13798,
-    "timeYear": 13798,
+    "time": 13840,
+    "timeDay": 21844,
+    "timeWeek": 19161,
+    "timeMonth": 13840,
+    "timeYear": 13840,
     "dailyMinutesDown": {
-      "2023-12-25": 372
+      "2023-12-25": 374
     }
   },
   {
@@ -165,19 +165,19 @@
     "url": "https://pdc.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/pdc.techinasia.com.ico",
     "slug": "techin-asia-pdc",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 2192,
-    "timeDay": 5238,
-    "timeWeek": 2888,
-    "timeMonth": 2192,
-    "timeYear": 2192,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2176,
+    "timeDay": 4054,
+    "timeWeek": 2755,
+    "timeMonth": 2176,
+    "timeYear": 2176,
     "dailyMinutesDown": {
-      "2023-12-25": 21
+      "2023-12-25": 23
     }
   },
   {
@@ -185,19 +185,19 @@
     "url": "https://advertise.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/advertise.techinasia.com.ico",
     "slug": "techin-asia-advertise",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 4088,
-    "timeDay": 19278,
-    "timeWeek": 9025,
-    "timeMonth": 4088,
-    "timeYear": 4088,
+    "time": 4022,
+    "timeDay": 15790,
+    "timeWeek": 8372,
+    "timeMonth": 4022,
+    "timeYear": 4022,
     "dailyMinutesDown": {
-      "2023-12-25": 20
+      "2023-12-25": 22
     }
   },
   {
