@@ -6,17 +6,17 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "96.16%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "95.59%",
     "uptimeYear": "96.16%",
     "time": 1276,
-    "timeDay": 1306,
+    "timeDay": 1299,
     "timeWeek": 1296,
-    "timeMonth": 1276,
+    "timeMonth": 1275,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-01-08": 101,
+      "2024-01-08": 86,
       "2024-01-07": 18,
       "2024-01-06": 112,
       "2024-01-05": 61,
@@ -48,7 +48,7 @@
       "2023-12-07": 71,
       "2023-12-06": 83,
       "2023-12-05": 75,
-      "2023-12-04": 30
+      "2023-12-04": 49
     }
   },
   {
@@ -58,17 +58,17 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "96.20%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "95.58%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "96.20%",
     "time": 629,
-    "timeDay": 725,
-    "timeWeek": 639,
-    "timeMonth": 625,
+    "timeDay": 726,
+    "timeWeek": 638,
+    "timeMonth": 624,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-01-08": 101,
+      "2024-01-08": 86,
       "2024-01-07": 18,
       "2024-01-06": 112,
       "2024-01-05": 61,
@@ -100,7 +100,7 @@
       "2023-12-07": 71,
       "2023-12-06": 83,
       "2023-12-05": 75,
-      "2023-12-04": 30
+      "2023-12-04": 49
     }
   },
   {
@@ -110,17 +110,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "96.23%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "95.38%",
+    "uptimeDay": "92.99%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "95.45%",
     "uptimeYear": "96.23%",
     "time": 2264,
-    "timeDay": 2337,
-    "timeWeek": 2281,
+    "timeDay": 2307,
+    "timeWeek": 2276,
     "timeMonth": 2252,
     "timeYear": 2264,
     "dailyMinutesDown": {
-      "2024-01-08": 116,
+      "2024-01-08": 101,
       "2024-01-07": 18,
       "2024-01-06": 113,
       "2024-01-05": 76,
@@ -150,7 +150,8 @@
       "2023-12-09": 56,
       "2023-12-08": 137,
       "2023-12-07": 71,
-      "2023-12-06": 83
+      "2023-12-06": 83,
+      "2023-12-05": 17
     }
   },
   {
@@ -165,9 +166,9 @@
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.35%",
     "time": 13043,
-    "timeDay": 6990,
-    "timeWeek": 6755,
-    "timeMonth": 14526,
+    "timeDay": 0,
+    "timeWeek": 6817,
+    "timeMonth": 14663,
     "timeYear": 13043,
     "dailyMinutesDown": {
       "2023-12-25": 399
@@ -185,9 +186,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2120,
-    "timeDay": 2126,
-    "timeWeek": 1918,
-    "timeMonth": 2188,
+    "timeDay": 0,
+    "timeWeek": 1968,
+    "timeMonth": 2205,
     "timeYear": 2120,
     "dailyMinutesDown": {
       "2023-12-25": 23
@@ -205,9 +206,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 3488,
-    "timeDay": 2396,
-    "timeWeek": 2105,
-    "timeMonth": 4063,
+    "timeDay": 0,
+    "timeWeek": 2162,
+    "timeMonth": 4135,
     "timeYear": 3488,
     "dailyMinutesDown": {
       "2023-12-25": 22
@@ -225,9 +226,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1802,
-    "timeDay": 1941,
-    "timeWeek": 1730,
-    "timeMonth": 1828,
+    "timeDay": 0,
+    "timeWeek": 1775,
+    "timeMonth": 1839,
     "timeYear": 1802,
     "dailyMinutesDown": {}
   },
@@ -243,9 +244,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2010,
-    "timeDay": 1438,
-    "timeWeek": 1306,
-    "timeMonth": 2288,
+    "timeDay": 0,
+    "timeWeek": 1348,
+    "timeMonth": 2326,
     "timeYear": 2010,
     "dailyMinutesDown": {
       "2023-12-25": 18
@@ -263,9 +264,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1629,
-    "timeDay": 1630,
-    "timeWeek": 1483,
-    "timeMonth": 1744,
+    "timeDay": 0,
+    "timeWeek": 1523,
+    "timeMonth": 1763,
     "timeYear": 1629,
     "dailyMinutesDown": {
       "2023-12-25": 17
