@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "96.59%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "97.92%",
     "time": 1298,
     "timeDay": 1341,
@@ -16,7 +16,7 @@
     "timeMonth": 1329,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2024-02-09": 24,
+      "2024-02-09": 17,
       "2024-02-08": 21,
       "2024-02-07": 50,
       "2024-02-06": 71,
@@ -55,7 +55,8 @@
       "2024-01-02": 61,
       "2024-01-01": 83,
       "2023-12-31": 19,
-      "2023-12-30": 54
+      "2023-12-30": 54,
+      "2023-12-26": 16
     }
   },
   {
@@ -64,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "97.96%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "97.96%",
+    "uptime": "97.94%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "97.94%",
     "time": 623,
     "timeDay": 593,
     "timeWeek": 634,
     "timeMonth": 614,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-02-09": 24,
+      "2024-02-09": 17,
       "2024-02-08": 21,
       "2024-02-07": 50,
       "2024-02-06": 71,
@@ -114,7 +115,7 @@
       "2024-01-02": 61,
       "2024-01-01": 55,
       "2023-12-31": 19,
-      "2023-12-30": 21
+      "2023-12-30": 54
     }
   },
   {
@@ -123,18 +124,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
     "status": "up",
-    "uptime": "97.98%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "96.47%",
-    "uptimeYear": "97.98%",
+    "uptime": "97.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "97.97%",
     "time": 2259,
     "timeDay": 2166,
     "timeWeek": 2266,
     "timeMonth": 2247,
     "timeYear": 2259,
     "dailyMinutesDown": {
-      "2024-02-09": 25,
+      "2024-02-09": 18,
       "2024-02-08": 36,
       "2024-02-07": 51,
       "2024-02-06": 71,
@@ -170,7 +171,8 @@
       "2024-01-05": 76,
       "2024-01-04": 52,
       "2024-01-03": 93,
-      "2024-01-02": 76
+      "2024-01-02": 76,
+      "2024-01-01": 15
     }
   },
   {
