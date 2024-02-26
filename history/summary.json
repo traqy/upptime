@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "96.61%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "98.35%",
     "time": 1301,
     "timeDay": 1286,
@@ -16,7 +16,7 @@
     "timeMonth": 1323,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2024-02-25": 44,
+      "2024-02-25": 37,
       "2024-02-24": 90,
       "2024-02-23": 106,
       "2024-02-22": 55,
@@ -59,7 +59,8 @@
       "2024-01-14": 19,
       "2024-01-13": 24,
       "2024-01-12": 57,
-      "2024-01-11": 25
+      "2024-01-11": 25,
+      "2024-01-10": 17
     }
   },
   {
@@ -68,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.37%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "98.37%",
     "time": 623,
     "timeDay": 577,
     "timeWeek": 654,
     "timeMonth": 618,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-02-25": 52,
+      "2024-02-25": 45,
       "2024-02-24": 90,
       "2024-02-23": 106,
       "2024-02-22": 55,
@@ -120,7 +121,8 @@
       "2024-01-16": 93,
       "2024-01-15": 127,
       "2024-01-14": 20,
-      "2024-01-13": 24
+      "2024-01-13": 24,
+      "2024-01-12": 15
     }
   },
   {
@@ -129,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.37%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "98.37%",
     "time": 2252,
     "timeDay": 2107,
     "timeWeek": 2222,
     "timeMonth": 2232,
     "timeYear": 2252,
     "dailyMinutesDown": {
-      "2024-02-25": 52,
+      "2024-02-25": 45,
       "2024-02-24": 90,
       "2024-02-23": 128,
       "2024-02-22": 55,
@@ -179,7 +181,7 @@
       "2024-01-19": 37,
       "2024-01-18": 48,
       "2024-01-16": 93,
-      "2024-01-15": 112
+      "2024-01-15": 128
     }
   },
   {
