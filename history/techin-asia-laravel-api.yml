@@ -1,7 +1,7 @@
 url: https://www.techinasia.com/api/2.0/companies
-status: up
-code: 200
-responseTime: 3941
-lastUpdated: 2024-03-02T04:06:33.605Z
+status: down
+code: 403
+responseTime: 174
+lastUpdated: 2024-03-02T09:24:54.340Z
 startTime: 2023-11-27T14:19:49.163Z
 generator: Upptime <https://github.com/upptime/upptime>
