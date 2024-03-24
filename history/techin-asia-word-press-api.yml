@@ -1,7 +1,7 @@
 url: https://www.techinasia.com/wp-json/techinasia/2.0/posts
-status: up
-code: 200
-responseTime: 1087
-lastUpdated: 2024-03-24T15:33:08.734Z
+status: down
+code: 403
+responseTime: 173
+lastUpdated: 2024-03-24T15:47:45.285Z
 startTime: 2023-11-27T14:19:47.809Z
 generator: Upptime <https://github.com/upptime/upptime>
