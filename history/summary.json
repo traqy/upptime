@@ -6,17 +6,17 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "96.70%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "98.81%",
     "time": 1307,
-    "timeDay": 1304,
+    "timeDay": 1310,
     "timeWeek": 1307,
     "timeMonth": 1322,
     "timeYear": 1307,
     "dailyMinutesDown": {
-      "2024-04-09": 90,
+      "2024-04-09": 80,
       "2024-04-08": 59,
       "2024-04-07": 19,
       "2024-04-06": 34,
@@ -59,7 +59,7 @@
       "2024-02-25": 37,
       "2024-02-24": 90,
       "2024-02-23": 106,
-      "2024-02-22": 17
+      "2024-02-22": 34
     }
   },
   {
@@ -69,17 +69,17 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "93.55%",
-    "uptimeWeek": "96.70%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "98.81%",
     "time": 624,
-    "timeDay": 605,
+    "timeDay": 613,
     "timeWeek": 629,
     "timeMonth": 634,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-04-09": 90,
+      "2024-04-09": 80,
       "2024-04-08": 59,
       "2024-04-07": 19,
       "2024-04-06": 34,
@@ -121,7 +121,8 @@
       "2024-02-26": 72,
       "2024-02-25": 45,
       "2024-02-24": 90,
-      "2024-02-23": 106
+      "2024-02-23": 106,
+      "2024-02-22": 17
     }
   },
   {
@@ -131,17 +132,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "93.53%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "96.75%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "98.72%",
     "time": 2262,
-    "timeDay": 2202,
+    "timeDay": 2243,
     "timeWeek": 2144,
     "timeMonth": 2311,
     "timeYear": 2262,
     "dailyMinutesDown": {
-      "2024-04-09": 90,
+      "2024-04-09": 80,
       "2024-04-08": 60,
       "2024-04-07": 19,
       "2024-04-06": 34,
@@ -183,7 +184,7 @@
       "2024-02-26": 72,
       "2024-02-25": 45,
       "2024-02-24": 90,
-      "2024-02-23": 46
+      "2024-02-23": 62
     }
   },
   {
