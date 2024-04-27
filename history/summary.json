@@ -4,18 +4,19 @@
     "url": "https://www.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "97.71%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "97.03%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "99.00%",
     "time": 1309,
-    "timeDay": 1325,
-    "timeWeek": 1322,
+    "timeDay": 1318,
+    "timeWeek": 1321,
     "timeMonth": 1319,
     "timeYear": 1309,
     "dailyMinutesDown": {
+      "2024-04-27": 0,
       "2024-04-26": 25,
       "2024-04-25": 63,
       "2024-04-24": 18,
@@ -61,7 +62,7 @@
       "2024-03-08": 41,
       "2024-03-07": 65,
       "2024-03-06": 81,
-      "2024-03-05": 46
+      "2024-03-05": 16
     }
   },
   {
@@ -69,18 +70,19 @@
     "url": "https://www.techinasia.com/wp-json/techinasia/2.0/posts",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "97.70%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "97.03%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "99.00%",
     "time": 627,
-    "timeDay": 621,
+    "timeDay": 611,
     "timeWeek": 678,
     "timeMonth": 648,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2024-04-27": 1,
       "2024-04-26": 25,
       "2024-04-25": 63,
       "2024-04-24": 18,
@@ -126,7 +128,7 @@
       "2024-03-08": 41,
       "2024-03-07": 65,
       "2024-03-06": 81,
-      "2024-03-05": 46
+      "2024-03-05": 16
     }
   },
   {
@@ -134,18 +136,19 @@
     "url": "https://www.techinasia.com/api/2.0/companies",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "97.55%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 2253,
-    "timeDay": 2191,
-    "timeWeek": 2155,
-    "timeMonth": 2227,
+    "timeDay": 2139,
+    "timeWeek": 2147,
+    "timeMonth": 2225,
     "timeYear": 2253,
     "dailyMinutesDown": {
+      "2024-04-27": 1,
       "2024-04-26": 25,
       "2024-04-25": 63,
       "2024-04-24": 18,
@@ -190,7 +193,7 @@
       "2024-03-10": 38,
       "2024-03-08": 41,
       "2024-03-07": 65,
-      "2024-03-06": 82
+      "2024-03-06": 61
     }
   },
   {
