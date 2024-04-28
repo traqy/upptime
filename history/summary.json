@@ -6,17 +6,17 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.00%",
     "time": 1309,
-    "timeDay": 1310,
+    "timeDay": 1296,
     "timeWeek": 1316,
     "timeMonth": 1318,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2024-04-28": 30,
+      "2024-04-28": 23,
       "2024-04-27": 37,
       "2024-04-26": 25,
       "2024-04-25": 63,
@@ -62,7 +62,7 @@
       "2024-03-10": 38,
       "2024-03-08": 41,
       "2024-03-07": 65,
-      "2024-03-06": 38
+      "2024-03-06": 61
     }
   },
   {
@@ -72,9 +72,9 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.00%",
     "time": 627,
     "timeDay": 618,
@@ -82,7 +82,7 @@
     "timeMonth": 644,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-04-28": 30,
+      "2024-04-28": 23,
       "2024-04-27": 37,
       "2024-04-26": 25,
       "2024-04-25": 63,
@@ -128,7 +128,7 @@
       "2024-03-10": 38,
       "2024-03-08": 41,
       "2024-03-07": 65,
-      "2024-03-06": 38
+      "2024-03-06": 61
     }
   },
   {
@@ -138,17 +138,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "96.98%",
     "uptimeYear": "98.91%",
     "time": 2251,
-    "timeDay": 2027,
+    "timeDay": 2036,
     "timeWeek": 2149,
-    "timeMonth": 2204,
+    "timeMonth": 2203,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2024-04-28": 30,
+      "2024-04-28": 23,
       "2024-04-27": 37,
       "2024-04-26": 25,
       "2024-04-25": 63,
@@ -193,7 +193,8 @@
       "2024-03-11": 112,
       "2024-03-10": 38,
       "2024-03-08": 41,
-      "2024-03-07": 65
+      "2024-03-07": 65,
+      "2024-03-06": 19
     }
   },
   {
@@ -201,10 +202,10 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 8722,
@@ -213,6 +214,7 @@
     "timeMonth": 7117,
     "timeYear": 8722,
     "dailyMinutesDown": {
+      "2024-04-28": 1,
       "2023-12-25": 399
     }
   },
