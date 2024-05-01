@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.11%",
     "uptimeYear": "99.02%",
     "time": 1310,
     "timeDay": 1367,
@@ -16,7 +16,7 @@
     "timeMonth": 1320,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2024-04-30": 46,
+      "2024-04-30": 39,
       "2024-04-29": 18,
       "2024-04-28": 42,
       "2024-04-27": 37,
@@ -63,7 +63,7 @@
       "2024-03-11": 60,
       "2024-03-10": 38,
       "2024-03-08": 41,
-      "2024-03-07": 18
+      "2024-03-07": 38
     }
   },
   {
@@ -73,17 +73,17 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.11%",
     "uptimeYear": "99.02%",
     "time": 628,
     "timeDay": 702,
     "timeWeek": 667,
-    "timeMonth": 651,
+    "timeMonth": 653,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2024-04-30": 46,
+      "2024-04-30": 39,
       "2024-04-29": 18,
       "2024-04-28": 42,
       "2024-04-27": 37,
@@ -130,7 +130,7 @@
       "2024-03-11": 60,
       "2024-03-10": 38,
       "2024-03-08": 41,
-      "2024-03-07": 18
+      "2024-03-07": 38
     }
   },
   {
@@ -140,17 +140,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.01%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "98.93%",
     "time": 2251,
     "timeDay": 2313,
     "timeWeek": 2183,
-    "timeMonth": 2188,
+    "timeMonth": 2180,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2024-04-30": 46,
+      "2024-04-30": 39,
       "2024-04-29": 18,
       "2024-04-28": 42,
       "2024-04-27": 37,
@@ -196,7 +196,7 @@
       "2024-03-12": 176,
       "2024-03-11": 112,
       "2024-03-10": 38,
-      "2024-03-08": 22
+      "2024-03-08": 41
     }
   },
   {
@@ -213,7 +213,7 @@
     "time": 8685,
     "timeDay": 6526,
     "timeWeek": 7106,
-    "timeMonth": 7109,
+    "timeMonth": 7122,
     "timeYear": 8685,
     "dailyMinutesDown": {
       "2023-12-25": 399
@@ -233,7 +233,7 @@
     "time": 2011,
     "timeDay": 1691,
     "timeWeek": 1889,
-    "timeMonth": 1909,
+    "timeMonth": 1916,
     "timeYear": 2011,
     "dailyMinutesDown": {
       "2023-12-25": 23
@@ -253,7 +253,7 @@
     "time": 2480,
     "timeDay": 1642,
     "timeWeek": 1857,
-    "timeMonth": 1900,
+    "timeMonth": 1908,
     "timeYear": 2480,
     "dailyMinutesDown": {
       "2023-12-25": 22
@@ -273,7 +273,7 @@
     "time": 1768,
     "timeDay": 1499,
     "timeWeek": 1668,
-    "timeMonth": 1700,
+    "timeMonth": 1708,
     "timeYear": 1768,
     "dailyMinutesDown": {}
   },
@@ -291,7 +291,7 @@
     "time": 1629,
     "timeDay": 1417,
     "timeWeek": 1571,
-    "timeMonth": 1582,
+    "timeMonth": 1587,
     "timeYear": 1629,
     "dailyMinutesDown": {
       "2023-12-25": 18
@@ -311,7 +311,7 @@
     "time": 1645,
     "timeDay": 1460,
     "timeWeek": 1693,
-    "timeMonth": 1709,
+    "timeMonth": 1711,
     "timeYear": 1645,
     "dailyMinutesDown": {
       "2023-12-25": 17
