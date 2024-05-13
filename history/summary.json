@@ -6,17 +6,17 @@
     "slug": "techin-asia",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "97.30%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.28%",
     "uptimeYear": "99.07%",
     "time": 1310,
-    "timeDay": 1290,
-    "timeWeek": 1319,
+    "timeDay": 1302,
+    "timeWeek": 1320,
     "timeMonth": 1321,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2024-05-13": 0,
+      "2024-05-13": 9,
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
@@ -65,8 +65,7 @@
       "2024-03-23": 16,
       "2024-03-21": 47,
       "2024-03-20": 18,
-      "2024-03-19": 40,
-      "2024-03-18": 20
+      "2024-03-19": 40
     }
   },
   {
@@ -76,17 +75,17 @@
     "slug": "techin-asia-word-press-api",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "97.30%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.28%",
     "uptimeYear": "99.07%",
     "time": 632,
     "timeDay": 605,
-    "timeWeek": 682,
+    "timeWeek": 681,
     "timeMonth": 672,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-05-13": 1,
+      "2024-05-13": 10,
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
@@ -135,8 +134,7 @@
       "2024-03-23": 16,
       "2024-03-21": 47,
       "2024-03-20": 18,
-      "2024-03-19": 40,
-      "2024-03-18": 20
+      "2024-03-19": 40
     }
   },
   {
@@ -146,17 +144,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "99.07%",
     "time": 2249,
-    "timeDay": 2153,
-    "timeWeek": 2226,
+    "timeDay": 2156,
+    "timeWeek": 2225,
     "timeMonth": 2195,
     "timeYear": 2249,
     "dailyMinutesDown": {
-      "2024-05-13": 1,
+      "2024-05-13": 10,
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
@@ -204,8 +202,7 @@
       "2024-03-24": 73,
       "2024-03-23": 32,
       "2024-03-21": 48,
-      "2024-03-20": 18,
-      "2024-03-19": 19
+      "2024-03-20": 18
     }
   },
   {
