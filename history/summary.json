@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.06%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.06%",
     "time": 1310,
-    "timeDay": 1337,
+    "timeDay": 1335,
     "timeWeek": 1314,
     "timeMonth": 1322,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2024-05-16": 30,
+      "2024-05-16": 23,
       "2024-05-15": 69,
       "2024-05-14": 29,
       "2024-05-13": 21,
@@ -65,7 +65,8 @@
       "2024-03-27": 16,
       "2024-03-26": 110,
       "2024-03-24": 73,
-      "2024-03-23": 16
+      "2024-03-23": 16,
+      "2024-03-21": 30
     }
   },
   {
@@ -74,18 +75,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.06%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.06%",
     "time": 632,
-    "timeDay": 629,
+    "timeDay": 616,
     "timeWeek": 640,
     "timeMonth": 671,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-05-16": 30,
+      "2024-05-16": 23,
       "2024-05-15": 69,
       "2024-05-14": 29,
       "2024-05-13": 21,
@@ -134,7 +135,8 @@
       "2024-03-27": 16,
       "2024-03-26": 110,
       "2024-03-24": 73,
-      "2024-03-23": 16
+      "2024-03-23": 16,
+      "2024-03-21": 30
     }
   },
   {
@@ -144,9 +146,9 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "99.07%",
     "time": 2247,
     "timeDay": 2145,
@@ -154,7 +156,7 @@
     "timeMonth": 2189,
     "timeYear": 2247,
     "dailyMinutesDown": {
-      "2024-05-16": 30,
+      "2024-05-16": 23,
       "2024-05-15": 70,
       "2024-05-14": 29,
       "2024-05-13": 22,
@@ -202,7 +204,8 @@
       "2024-03-28": 59,
       "2024-03-27": 16,
       "2024-03-26": 110,
-      "2024-03-24": 73
+      "2024-03-24": 73,
+      "2024-03-23": 15
     }
   },
   {
@@ -210,19 +213,19 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 8580,
-    "timeDay": 12547,
-    "timeWeek": 8133,
-    "timeMonth": 7220,
-    "timeYear": 8580,
+    "time": 8608,
+    "timeDay": 13057,
+    "timeWeek": 8720,
+    "timeMonth": 7419,
+    "timeYear": 8608,
     "dailyMinutesDown": {
-      "2024-05-16": 17,
+      "2024-05-16": 22,
       "2023-12-25": 399
     }
   },
