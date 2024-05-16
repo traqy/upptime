@@ -83,7 +83,7 @@
     "time": 632,
     "timeDay": 619,
     "timeWeek": 640,
-    "timeMonth": 672,
+    "timeMonth": 671,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2024-05-16": 23,
@@ -153,7 +153,7 @@
     "time": 2247,
     "timeDay": 2137,
     "timeWeek": 2186,
-    "timeMonth": 2190,
+    "timeMonth": 2189,
     "timeYear": 2247,
     "dailyMinutesDown": {
       "2024-05-16": 23,
@@ -213,10 +213,10 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
     "time": 8541,
@@ -225,7 +225,7 @@
     "timeMonth": 6952,
     "timeYear": 8541,
     "dailyMinutesDown": {
-      "2024-05-16": 16,
+      "2024-05-16": 18,
       "2023-12-25": 399
     }
   },
