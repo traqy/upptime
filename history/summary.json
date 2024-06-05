@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.13%",
     "time": 1311,
     "timeDay": 1350,
@@ -16,7 +16,7 @@
     "timeMonth": 1326,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2024-06-05": 58,
+      "2024-06-05": 46,
       "2024-06-04": 17,
       "2024-06-02": 92,
       "2024-06-01": 74,
@@ -65,7 +65,7 @@
       "2024-04-13": 66,
       "2024-04-12": 88,
       "2024-04-11": 78,
-      "2024-04-10": 3
+      "2024-04-10": 30
     }
   },
   {
@@ -75,9 +75,9 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.13%",
     "time": 632,
     "timeDay": 640,
@@ -85,7 +85,7 @@
     "timeMonth": 648,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-06-05": 58,
+      "2024-06-05": 46,
       "2024-06-04": 17,
       "2024-06-02": 92,
       "2024-06-01": 74,
@@ -134,7 +134,7 @@
       "2024-04-13": 66,
       "2024-04-12": 88,
       "2024-04-11": 78,
-      "2024-04-10": 3
+      "2024-04-10": 30
     }
   },
   {
@@ -142,11 +142,11 @@
     "url": "https://www.techinasia.com/api/2.0/companies",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "95.62%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "96.73%",
     "uptimeYear": "99.11%",
     "time": 2243,
     "timeDay": 2142,
@@ -154,7 +154,7 @@
     "timeMonth": 2199,
     "timeYear": 2243,
     "dailyMinutesDown": {
-      "2024-06-05": 58,
+      "2024-06-05": 47,
       "2024-06-04": 17,
       "2024-06-02": 92,
       "2024-06-01": 75,
