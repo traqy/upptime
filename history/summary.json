@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.13%",
     "time": 1311,
     "timeDay": 1337,
@@ -16,7 +16,7 @@
     "timeMonth": 1325,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2024-06-04": 25,
+      "2024-06-04": 17,
       "2024-06-02": 92,
       "2024-06-01": 74,
       "2024-05-31": 60,
@@ -64,7 +64,8 @@
       "2024-04-13": 66,
       "2024-04-12": 88,
       "2024-04-11": 78,
-      "2024-04-10": 47
+      "2024-04-10": 47,
+      "2024-04-09": 18
     }
   },
   {
@@ -74,9 +75,9 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.13%",
     "time": 632,
     "timeDay": 636,
@@ -84,7 +85,7 @@
     "timeMonth": 648,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-06-04": 25,
+      "2024-06-04": 17,
       "2024-06-02": 92,
       "2024-06-01": 74,
       "2024-05-31": 60,
@@ -132,7 +133,8 @@
       "2024-04-13": 66,
       "2024-04-12": 88,
       "2024-04-11": 78,
-      "2024-04-10": 47
+      "2024-04-10": 47,
+      "2024-04-09": 18
     }
   },
   {
@@ -141,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.10%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "99.10%",
     "time": 2243,
     "timeDay": 2154,
     "timeWeek": 2096,
     "timeMonth": 2200,
     "timeYear": 2243,
     "dailyMinutesDown": {
-      "2024-06-04": 25,
+      "2024-06-04": 17,
       "2024-06-02": 92,
       "2024-06-01": 75,
       "2024-05-31": 143,
@@ -200,7 +202,7 @@
       "2024-04-13": 66,
       "2024-04-12": 88,
       "2024-04-11": 79,
-      "2024-04-10": 3
+      "2024-04-10": 30
     }
   },
   {
