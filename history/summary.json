@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "97.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.20%",
     "uptimeYear": "99.24%",
     "time": 1312,
     "timeDay": 1364,
@@ -16,7 +16,6 @@
     "timeMonth": 1325,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2024-06-22": 7,
       "2024-06-20": 23,
       "2024-06-19": 61,
       "2024-06-17": 41,
@@ -67,7 +66,8 @@
       "2024-04-28": 42,
       "2024-04-27": 37,
       "2024-04-26": 25,
-      "2024-04-25": 63
+      "2024-04-25": 63,
+      "2024-04-24": 18
     }
   },
   {
@@ -77,9 +77,9 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "97.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.20%",
     "uptimeYear": "99.24%",
     "time": 631,
     "timeDay": 613,
@@ -87,7 +87,6 @@
     "timeMonth": 627,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-06-22": 7,
       "2024-06-20": 23,
       "2024-06-19": 62,
       "2024-06-17": 41,
@@ -138,7 +137,8 @@
       "2024-04-28": 42,
       "2024-04-27": 37,
       "2024-04-26": 25,
-      "2024-04-25": 63
+      "2024-04-25": 63,
+      "2024-04-24": 18
     }
   },
   {
@@ -147,18 +147,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "99.21%",
     "time": 2234,
     "timeDay": 2088,
     "timeWeek": 2058,
     "timeMonth": 2151,
     "timeYear": 2234,
     "dailyMinutesDown": {
-      "2024-06-22": 7,
       "2024-06-20": 23,
       "2024-06-19": 62,
       "2024-06-17": 41,
@@ -209,7 +208,7 @@
       "2024-04-28": 42,
       "2024-04-27": 37,
       "2024-04-26": 25,
-      "2024-04-25": 19
+      "2024-04-25": 63
     }
   },
   {
