@@ -6,17 +6,17 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.54%",
     "uptimeYear": "99.25%",
     "time": 1313,
     "timeDay": 1357,
     "timeWeek": 1336,
-    "timeMonth": 1329,
+    "timeMonth": 1330,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2024-06-30": 42,
+      "2024-06-30": 35,
       "2024-06-29": 28,
       "2024-06-28": 23,
       "2024-06-27": 50,
@@ -65,7 +65,8 @@
       "2024-05-05": 35,
       "2024-05-04": 45,
       "2024-05-03": 15,
-      "2024-05-02": 40
+      "2024-05-02": 40,
+      "2024-05-01": 17
     }
   },
   {
@@ -75,17 +76,17 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.54%",
     "uptimeYear": "99.25%",
     "time": 631,
     "timeDay": 629,
     "timeWeek": 636,
-    "timeMonth": 624,
+    "timeMonth": 623,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-06-30": 42,
+      "2024-06-30": 35,
       "2024-06-29": 28,
       "2024-06-28": 23,
       "2024-06-27": 50,
@@ -134,7 +135,8 @@
       "2024-05-05": 35,
       "2024-05-04": 45,
       "2024-05-03": 15,
-      "2024-05-02": 40
+      "2024-05-02": 40,
+      "2024-05-01": 17
     }
   },
   {
@@ -144,17 +146,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.13%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "99.23%",
     "time": 2230,
     "timeDay": 2040,
     "timeWeek": 2102,
-    "timeMonth": 2117,
+    "timeMonth": 2118,
     "timeYear": 2230,
     "dailyMinutesDown": {
-      "2024-06-30": 42,
+      "2024-06-30": 35,
       "2024-06-29": 28,
       "2024-06-28": 23,
       "2024-06-27": 65,
@@ -202,7 +204,8 @@
       "2024-05-06": 74,
       "2024-05-05": 35,
       "2024-05-04": 45,
-      "2024-05-03": 15
+      "2024-05-03": 15,
+      "2024-05-02": 18
     }
   },
   {
@@ -219,7 +222,7 @@
     "time": 8342,
     "timeDay": 4344,
     "timeWeek": 4375,
-    "timeMonth": 5587,
+    "timeMonth": 5528,
     "timeYear": 8342,
     "dailyMinutesDown": {
       "2024-05-17": 21,
@@ -241,7 +244,7 @@
     "time": 2003,
     "timeDay": 2116,
     "timeWeek": 2057,
-    "timeMonth": 2011,
+    "timeMonth": 2008,
     "timeYear": 2003,
     "dailyMinutesDown": {
       "2023-12-25": 23
@@ -261,7 +264,7 @@
     "time": 2340,
     "timeDay": 2165,
     "timeWeek": 2064,
-    "timeMonth": 1991,
+    "timeMonth": 1985,
     "timeYear": 2340,
     "dailyMinutesDown": {
       "2023-12-25": 22
@@ -281,7 +284,7 @@
     "time": 1769,
     "timeDay": 1948,
     "timeWeek": 1839,
-    "timeMonth": 1785,
+    "timeMonth": 1780,
     "timeYear": 1769,
     "dailyMinutesDown": {}
   },
@@ -299,7 +302,7 @@
     "time": 1579,
     "timeDay": 1431,
     "timeWeek": 1379,
-    "timeMonth": 1431,
+    "timeMonth": 1425,
     "timeYear": 1579,
     "dailyMinutesDown": {
       "2023-12-25": 18
@@ -319,7 +322,7 @@
     "time": 1698,
     "timeDay": 2284,
     "timeWeek": 2088,
-    "timeMonth": 1865,
+    "timeMonth": 1863,
     "timeYear": 1698,
     "dailyMinutesDown": {
       "2023-12-25": 17
