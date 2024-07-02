@@ -6,17 +6,17 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.25%",
     "time": 1313,
-    "timeDay": 1387,
+    "timeDay": 1384,
     "timeWeek": 1346,
-    "timeMonth": 1329,
+    "timeMonth": 1330,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2024-07-01": 48,
+      "2024-07-01": 41,
       "2024-06-30": 35,
       "2024-06-29": 28,
       "2024-06-28": 23,
@@ -66,7 +66,7 @@
       "2024-05-05": 35,
       "2024-05-04": 45,
       "2024-05-03": 15,
-      "2024-05-02": 18
+      "2024-05-02": 40
     }
   },
   {
@@ -76,17 +76,17 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.25%",
     "time": 631,
-    "timeDay": 671,
-    "timeWeek": 643,
-    "timeMonth": 624,
+    "timeDay": 676,
+    "timeWeek": 644,
+    "timeMonth": 625,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-07-01": 48,
+      "2024-07-01": 41,
       "2024-06-30": 35,
       "2024-06-29": 28,
       "2024-06-28": 23,
@@ -136,7 +136,7 @@
       "2024-05-05": 35,
       "2024-05-04": 45,
       "2024-05-03": 15,
-      "2024-05-02": 18
+      "2024-05-02": 40
     }
   },
   {
@@ -146,17 +146,17 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "97.54%",
     "uptimeYear": "99.22%",
     "time": 2230,
-    "timeDay": 2155,
-    "timeWeek": 2109,
+    "timeDay": 2168,
+    "timeWeek": 2110,
     "timeMonth": 2116,
     "timeYear": 2230,
     "dailyMinutesDown": {
-      "2024-07-01": 48,
+      "2024-07-01": 41,
       "2024-06-30": 35,
       "2024-06-29": 28,
       "2024-06-28": 23,
@@ -204,7 +204,8 @@
       "2024-05-07": 18,
       "2024-05-06": 74,
       "2024-05-05": 35,
-      "2024-05-04": 45
+      "2024-05-04": 45,
+      "2024-05-03": 15
     }
   },
   {
