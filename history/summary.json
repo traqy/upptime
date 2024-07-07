@@ -6,17 +6,16 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "99.27%",
     "time": 1314,
-    "timeDay": 1381,
+    "timeDay": 1380,
     "timeWeek": 1362,
     "timeMonth": 1336,
     "timeYear": 1314,
     "dailyMinutesDown": {
-      "2024-07-06": 10,
       "2024-07-03": 38,
       "2024-07-02": 52,
       "2024-07-01": 41,
@@ -66,7 +65,7 @@
       "2024-05-08": 28,
       "2024-05-07": 18,
       "2024-05-06": 74,
-      "2024-05-05": 15
+      "2024-05-05": 35
     }
   },
   {
@@ -81,9 +80,9 @@
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.27%",
     "time": 632,
-    "timeDay": 1376,
+    "timeDay": 1353,
     "timeWeek": 705,
-    "timeMonth": 635,
+    "timeMonth": 636,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2024-07-03": 38,
@@ -150,9 +149,9 @@
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.24%",
     "time": 2229,
-    "timeDay": 2552,
+    "timeDay": 2614,
     "timeWeek": 2114,
-    "timeMonth": 2107,
+    "timeMonth": 2110,
     "timeYear": 2229,
     "dailyMinutesDown": {
       "2024-07-03": 38,
