@@ -12,8 +12,8 @@
     "uptimeYear": "99.31%",
     "time": 1314,
     "timeDay": 1192,
-    "timeWeek": 1347,
-    "timeMonth": 1353,
+    "timeWeek": 1354,
+    "timeMonth": 1345,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2024-07-13": 22,
@@ -75,18 +75,19 @@
     "url": "https://www.techinasia.com/wp-json/techinasia/2.0/posts",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.31%",
     "time": 633,
-    "timeDay": 764,
-    "timeWeek": 738,
-    "timeMonth": 653,
+    "timeDay": 616,
+    "timeWeek": 713,
+    "timeMonth": 654,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2024-07-18": 1,
       "2024-07-03": 38,
       "2024-07-02": 52,
       "2024-07-01": 41,
@@ -136,7 +137,7 @@
       "2024-05-08": 28,
       "2024-05-07": 18,
       "2024-05-06": 74,
-      "2024-05-05": 35
+      "2024-05-05": 15
     }
   },
   {
@@ -147,13 +148,13 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "98.77%",
-    "uptimeWeek": "99.55%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.29%",
     "time": 2231,
     "timeDay": 2620,
-    "timeWeek": 2514,
-    "timeMonth": 2137,
+    "timeWeek": 2547,
+    "timeMonth": 2136,
     "timeYear": 2231,
     "dailyMinutesDown": {
       "2024-07-17": 18,
@@ -301,7 +302,7 @@
     "time": 1560,
     "timeDay": 1127,
     "timeWeek": 1316,
-    "timeMonth": 1360,
+    "timeMonth": 1359,
     "timeYear": 1560,
     "dailyMinutesDown": {
       "2023-12-25": 18
@@ -321,7 +322,7 @@
     "time": 1716,
     "timeDay": 1633,
     "timeWeek": 1961,
-    "timeMonth": 1969,
+    "timeMonth": 1988,
     "timeYear": 1716,
     "dailyMinutesDown": {
       "2023-12-25": 17
