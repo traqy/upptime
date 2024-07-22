@@ -213,10 +213,10 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 8138,
@@ -225,7 +225,7 @@
     "timeMonth": 5435,
     "timeYear": 8138,
     "dailyMinutesDown": {
-      "2024-07-22": 25,
+      "2024-07-22": 26,
       "2024-05-17": 21,
       "2024-05-16": 16,
       "2023-12-25": 399
