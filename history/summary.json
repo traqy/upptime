@@ -145,18 +145,19 @@
     "url": "https://www.techinasia.com/api/2.0/companies",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.31%",
     "time": 2231,
-    "timeDay": 2908,
-    "timeWeek": 2331,
-    "timeMonth": 2176,
+    "timeDay": 2228,
+    "timeWeek": 2260,
+    "timeMonth": 2170,
     "timeYear": 2231,
     "dailyMinutesDown": {
+      "2024-07-24": 1,
       "2024-07-17": 18,
       "2024-07-11": 28,
       "2024-07-08": 39,
@@ -205,7 +206,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 64
+      "2024-05-09": 43
     }
   },
   {
