@@ -13,7 +13,7 @@
     "time": 1315,
     "timeDay": 1527,
     "timeWeek": 1406,
-    "timeMonth": 1382,
+    "timeMonth": 1381,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2024-07-31": 262,
@@ -84,7 +84,7 @@
     "time": 634,
     "timeDay": 952,
     "timeWeek": 698,
-    "timeMonth": 707,
+    "timeMonth": 709,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-07-30": 26,
@@ -147,18 +147,19 @@
     "url": "https://www.techinasia.com/api/2.0/companies",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.33%",
     "time": 2231,
-    "timeDay": 2769,
-    "timeWeek": 2272,
-    "timeMonth": 2257,
+    "timeDay": 2135,
+    "timeWeek": 2233,
+    "timeMonth": 2254,
     "timeYear": 2231,
     "dailyMinutesDown": {
+      "2024-07-31": 1,
       "2024-07-30": 31,
       "2024-07-27": 22,
       "2024-07-24": 16,
@@ -209,7 +210,7 @@
       "2024-05-13": 22,
       "2024-05-12": 24,
       "2024-05-11": 61,
-      "2024-05-10": 48
+      "2024-05-10": 18
     }
   },
   {
