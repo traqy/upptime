@@ -6,17 +6,16 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "99.19%",
     "time": 1315,
-    "timeDay": 1440,
+    "timeDay": 1458,
     "timeWeek": 1377,
     "timeMonth": 1394,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2024-08-03": 9,
       "2024-07-31": 262,
       "2024-07-22": 16,
       "2024-07-19": 392,
@@ -68,7 +67,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 43
+      "2024-05-09": 64
     }
   },
   {
@@ -76,18 +75,19 @@
     "url": "https://www.techinasia.com/wp-json/techinasia/2.0/posts",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 634,
-    "timeDay": 1049,
-    "timeWeek": 707,
-    "timeMonth": 734,
+    "timeDay": 641,
+    "timeWeek": 698,
+    "timeMonth": 731,
     "timeYear": 634,
     "dailyMinutesDown": {
+      "2024-08-03": 1,
       "2024-07-30": 26,
       "2024-07-29": 2,
       "2024-07-27": 22,
@@ -139,8 +139,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 64,
-      "2024-05-08": 28
+      "2024-05-09": 64
     }
   },
   {
