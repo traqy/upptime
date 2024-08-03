@@ -4,18 +4,19 @@
     "url": "https://www.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "99.19%",
     "time": 1315,
-    "timeDay": 1433,
-    "timeWeek": 1374,
-    "timeMonth": 1393,
+    "timeDay": 1390,
+    "timeWeek": 1367,
+    "timeMonth": 1391,
     "timeYear": 1315,
     "dailyMinutesDown": {
+      "2024-08-03": 1,
       "2024-07-31": 262,
       "2024-07-22": 16,
       "2024-07-19": 392,
@@ -67,7 +68,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 64
+      "2024-05-09": 43
     }
   },
   {
@@ -156,7 +157,7 @@
     "time": 2231,
     "timeDay": 1822,
     "timeWeek": 2181,
-    "timeMonth": 2310,
+    "timeMonth": 2315,
     "timeYear": 2231,
     "dailyMinutesDown": {
       "2024-07-30": 31,
@@ -224,7 +225,7 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.84%",
     "time": 8229,
-    "timeDay": 20103,
+    "timeDay": 22451,
     "timeWeek": 11522,
     "timeMonth": 7936,
     "timeYear": 8229,
