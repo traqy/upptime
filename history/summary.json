@@ -6,17 +6,16 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.20%",
     "time": 1316,
     "timeDay": 1518,
     "timeWeek": 1389,
-    "timeMonth": 1400,
+    "timeMonth": 1403,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2024-08-07": 9,
       "2024-07-31": 262,
       "2024-07-22": 16,
       "2024-07-19": 392,
@@ -68,7 +67,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 43
+      "2024-05-09": 64
     }
   },
   {
@@ -77,18 +76,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.34%",
     "time": 634,
     "timeDay": 708,
     "timeWeek": 707,
-    "timeMonth": 706,
+    "timeMonth": 709,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-08-07": 9,
       "2024-08-05": 22,
       "2024-07-30": 26,
       "2024-07-29": 2,
@@ -141,7 +139,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 43
+      "2024-05-09": 64
     }
   },
   {
@@ -227,7 +225,7 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.82%",
     "time": 8827,
-    "timeDay": 12647,
+    "timeDay": 13694,
     "timeWeek": 14594,
     "timeMonth": 11297,
     "timeYear": 8827,
@@ -288,10 +286,10 @@
     "url": "https://sync.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/sync.techinasia.com.ico",
     "slug": "techin-asia-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1770,
@@ -299,7 +297,9 @@
     "timeWeek": 1734,
     "timeMonth": 1789,
     "timeYear": 1770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 1
+    }
   },
   {
     "name": "TechinAsia_AWS",
