@@ -6,17 +6,16 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.22%",
     "time": 1316,
-    "timeDay": 1442,
-    "timeWeek": 1450,
-    "timeMonth": 1399,
+    "timeDay": 1376,
+    "timeWeek": 1446,
+    "timeMonth": 1397,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2024-08-12": 7,
       "2024-07-31": 262,
       "2024-07-22": 16,
       "2024-07-19": 392,
@@ -68,7 +67,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 43
+      "2024-05-09": 64
     }
   },
   {
@@ -78,17 +77,16 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.36%",
     "time": 634,
-    "timeDay": 718,
-    "timeWeek": 691,
-    "timeMonth": 701,
+    "timeDay": 693,
+    "timeWeek": 692,
+    "timeMonth": 697,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-08-12": 7,
       "2024-08-08": 18,
       "2024-08-05": 22,
       "2024-07-30": 26,
@@ -142,7 +140,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 26
+      "2024-05-09": 43
     }
   },
   {
@@ -157,9 +155,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.36%",
     "time": 2231,
-    "timeDay": 1040,
-    "timeWeek": 2211,
-    "timeMonth": 2262,
+    "timeDay": 1835,
+    "timeWeek": 2229,
+    "timeMonth": 2263,
     "timeYear": 2231,
     "dailyMinutesDown": {
       "2024-08-05": 22,
@@ -227,11 +225,11 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.82%",
-    "time": 8784,
-    "timeDay": 4731,
-    "timeWeek": 10704,
-    "timeMonth": 11004,
-    "timeYear": 8784,
+    "time": 8771,
+    "timeDay": 4130,
+    "timeWeek": 9853,
+    "timeMonth": 11000,
+    "timeYear": 8771,
     "dailyMinutesDown": {
       "2024-08-07": 49,
       "2024-08-06": 27,
@@ -255,11 +253,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1999,
-    "timeDay": 2124,
-    "timeWeek": 1936,
-    "timeMonth": 1962,
-    "timeYear": 1999,
+    "time": 1997,
+    "timeDay": 1581,
+    "timeWeek": 1918,
+    "timeMonth": 1946,
+    "timeYear": 1997,
     "dailyMinutesDown": {
       "2023-12-25": 23
     }
@@ -275,11 +273,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2282,
-    "timeDay": 2123,
-    "timeWeek": 1884,
-    "timeMonth": 1961,
-    "timeYear": 2282,
+    "time": 2279,
+    "timeDay": 1578,
+    "timeWeek": 1863,
+    "timeMonth": 1940,
+    "timeYear": 2279,
     "dailyMinutesDown": {
       "2023-12-25": 22
     }
@@ -295,11 +293,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1768,
-    "timeDay": 1859,
-    "timeWeek": 1676,
-    "timeMonth": 1752,
-    "timeYear": 1768,
+    "time": 1766,
+    "timeDay": 1424,
+    "timeWeek": 1666,
+    "timeMonth": 1738,
+    "timeYear": 1766,
     "dailyMinutesDown": {}
   },
   {
@@ -313,11 +311,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1538,
-    "timeDay": 1386,
-    "timeWeek": 1281,
-    "timeMonth": 1325,
-    "timeYear": 1538,
+    "time": 1536,
+    "timeDay": 1071,
+    "timeWeek": 1273,
+    "timeMonth": 1313,
+    "timeYear": 1536,
     "dailyMinutesDown": {
       "2023-12-25": 18
     }
@@ -334,9 +332,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1742,
-    "timeDay": 2031,
-    "timeWeek": 1880,
-    "timeMonth": 1977,
+    "timeDay": 1661,
+    "timeWeek": 1877,
+    "timeMonth": 1958,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2023-12-25": 17
