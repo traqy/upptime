@@ -4,18 +4,19 @@
     "url": "https://www.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 1316,
-    "timeDay": 1404,
-    "timeWeek": 1416,
-    "timeMonth": 1405,
+    "timeDay": 1140,
+    "timeWeek": 1398,
+    "timeMonth": 1402,
     "timeYear": 1316,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2024-07-31": 262,
       "2024-07-22": 16,
       "2024-07-19": 392,
@@ -67,7 +68,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 64
+      "2024-05-09": 43
     }
   },
   {
@@ -78,12 +79,12 @@
     "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.36%",
     "time": 635,
-    "timeDay": 1026,
-    "timeWeek": 738,
+    "timeDay": 828,
+    "timeWeek": 744,
     "timeMonth": 713,
     "timeYear": 635,
     "dailyMinutesDown": {
@@ -150,9 +151,9 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.37%",
     "time": 2231,
     "timeDay": 2499,
@@ -160,7 +161,6 @@
     "timeMonth": 2281,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2024-08-15": 10,
       "2024-08-05": 22,
       "2024-07-30": 31,
       "2024-07-27": 22,
@@ -211,7 +211,8 @@
       "2024-05-14": 29,
       "2024-05-13": 22,
       "2024-05-12": 24,
-      "2024-05-11": 61
+      "2024-05-11": 61,
+      "2024-05-10": 18
     }
   },
   {
@@ -226,7 +227,7 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.82%",
     "time": 8735,
-    "timeDay": 4288,
+    "timeDay": 4137,
     "timeWeek": 4304,
     "timeMonth": 10835,
     "timeYear": 8735,
