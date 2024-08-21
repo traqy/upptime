@@ -11,7 +11,7 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.24%",
     "time": 1316,
-    "timeDay": 1516,
+    "timeDay": 1989,
     "timeWeek": 1359,
     "timeMonth": 1401,
     "timeYear": 1316,
@@ -77,17 +77,16 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.38%",
     "time": 635,
     "timeDay": 801,
-    "timeWeek": 842,
-    "timeMonth": 718,
+    "timeWeek": 778,
+    "timeMonth": 719,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-08-21": 7,
       "2024-08-08": 18,
       "2024-08-05": 22,
       "2024-07-30": 26,
@@ -141,7 +140,7 @@
       "2024-05-12": 24,
       "2024-05-11": 61,
       "2024-05-10": 48,
-      "2024-05-09": 26
+      "2024-05-09": 43
     }
   },
   {
@@ -149,18 +148,19 @@
     "url": "https://www.techinasia.com/api/2.0/companies",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.38%",
     "time": 2231,
-    "timeDay": 2113,
-    "timeWeek": 2275,
-    "timeMonth": 2272,
+    "timeDay": 1789,
+    "timeWeek": 2218,
+    "timeMonth": 2262,
     "timeYear": 2231,
     "dailyMinutesDown": {
+      "2024-08-21": 1,
       "2024-08-05": 22,
       "2024-07-30": 31,
       "2024-07-27": 22,
@@ -211,8 +211,7 @@
       "2024-05-14": 29,
       "2024-05-13": 22,
       "2024-05-12": 24,
-      "2024-05-11": 61,
-      "2024-05-10": 18
+      "2024-05-11": 61
     }
   },
   {
@@ -228,7 +227,7 @@
     "uptimeYear": "99.83%",
     "time": 8653,
     "timeDay": 2188,
-    "timeWeek": 3778,
+    "timeWeek": 3683,
     "timeMonth": 10713,
     "timeYear": 8653,
     "dailyMinutesDown": {
