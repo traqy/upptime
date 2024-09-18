@@ -80,17 +80,16 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.44%",
     "time": 637,
     "timeDay": 682,
-    "timeWeek": 692,
+    "timeWeek": 696,
     "timeMonth": 735,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-09-17": 11,
       "2024-09-11": 15,
       "2024-08-22": 23,
       "2024-08-08": 18,
@@ -145,7 +144,7 @@
       "2024-05-13": 21,
       "2024-05-12": 24,
       "2024-05-11": 61,
-      "2024-05-10": 18
+      "2024-05-10": 48
     }
   },
   {
@@ -161,8 +160,8 @@
     "uptimeYear": "99.43%",
     "time": 2231,
     "timeDay": 2336,
-    "timeWeek": 2231,
-    "timeMonth": 2206,
+    "timeWeek": 2238,
+    "timeMonth": 2210,
     "timeYear": 2231,
     "dailyMinutesDown": {
       "2024-09-10": 33,
