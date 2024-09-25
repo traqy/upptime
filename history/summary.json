@@ -6,17 +6,16 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.33%",
     "time": 1319,
-    "timeDay": 1294,
-    "timeWeek": 1390,
-    "timeMonth": 1406,
+    "timeDay": 1268,
+    "timeWeek": 1387,
+    "timeMonth": 1404,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2024-09-24": 12,
       "2024-09-23": 20,
       "2024-09-10": 33,
       "2024-09-06": 24,
@@ -71,7 +70,7 @@
       "2024-05-14": 29,
       "2024-05-13": 21,
       "2024-05-12": 24,
-      "2024-05-11": 31
+      "2024-05-11": 61
     }
   },
   {
@@ -86,9 +85,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.45%",
     "time": 638,
-    "timeDay": 644,
-    "timeWeek": 770,
-    "timeMonth": 757,
+    "timeDay": 658,
+    "timeWeek": 800,
+    "timeMonth": 761,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2024-09-23": 20,
@@ -160,11 +159,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.45%",
-    "time": 2232,
-    "timeDay": 2489,
-    "timeWeek": 2418,
-    "timeMonth": 2248,
-    "timeYear": 2232,
+    "time": 2231,
+    "timeDay": 1677,
+    "timeWeek": 2292,
+    "timeMonth": 2229,
+    "timeYear": 2231,
     "dailyMinutesDown": {
       "2024-09-24": 28,
       "2024-09-10": 33,
@@ -232,11 +231,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 8098,
-    "timeDay": 1958,
-    "timeWeek": 1922,
-    "timeMonth": 1969,
-    "timeYear": 8098,
+    "time": 8083,
+    "timeDay": 1586,
+    "timeWeek": 1904,
+    "timeMonth": 1957,
+    "timeYear": 8083,
     "dailyMinutesDown": {
       "2024-08-07": 49,
       "2024-08-06": 27,
@@ -260,11 +259,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1987,
-    "timeDay": 1967,
-    "timeWeek": 1940,
-    "timeMonth": 1961,
-    "timeYear": 1987,
+    "time": 1986,
+    "timeDay": 1602,
+    "timeWeek": 1924,
+    "timeMonth": 1950,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2023-12-25": 23
     }
@@ -280,11 +279,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2227,
-    "timeDay": 1953,
-    "timeWeek": 1891,
-    "timeMonth": 1932,
-    "timeYear": 2227,
+    "time": 2225,
+    "timeDay": 1596,
+    "timeWeek": 1867,
+    "timeMonth": 1921,
+    "timeYear": 2225,
     "dailyMinutesDown": {
       "2023-12-25": 22
     }
@@ -300,11 +299,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1772,
-    "timeDay": 1723,
-    "timeWeek": 1717,
-    "timeMonth": 1847,
-    "timeYear": 1772,
+    "time": 1771,
+    "timeDay": 1402,
+    "timeWeek": 1696,
+    "timeMonth": 1830,
+    "timeYear": 1771,
     "dailyMinutesDown": {
       "2024-08-23": 58
     }
@@ -320,11 +319,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1503,
-    "timeDay": 1335,
-    "timeWeek": 1283,
-    "timeMonth": 1323,
-    "timeYear": 1503,
+    "time": 1502,
+    "timeDay": 1074,
+    "timeWeek": 1271,
+    "timeMonth": 1314,
+    "timeYear": 1502,
     "dailyMinutesDown": {
       "2023-12-25": 18
     }
@@ -340,11 +339,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1746,
-    "timeDay": 1714,
-    "timeWeek": 1688,
-    "timeMonth": 1750,
-    "timeYear": 1746,
+    "time": 1744,
+    "timeDay": 1397,
+    "timeWeek": 1675,
+    "timeMonth": 1740,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2023-12-25": 17
     }
