@@ -11,7 +11,7 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.36%",
     "time": 1319,
-    "timeDay": 1307,
+    "timeDay": 1461,
     "timeWeek": 1383,
     "timeMonth": 1393,
     "timeYear": 1319,
@@ -81,18 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.47%",
     "time": 638,
-    "timeDay": 669,
-    "timeWeek": 689,
-    "timeMonth": 705,
+    "timeDay": 681,
+    "timeWeek": 684,
+    "timeMonth": 706,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2024-10-09": 11,
       "2024-10-05": 34,
       "2024-09-27": 39,
       "2024-09-23": 20,
@@ -148,7 +147,8 @@
       "2024-05-15": 69,
       "2024-05-14": 29,
       "2024-05-13": 21,
-      "2024-05-12": 24
+      "2024-05-12": 24,
+      "2024-05-11": 31
     }
   },
   {
@@ -158,17 +158,16 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.48%",
     "time": 2228,
-    "timeDay": 815,
-    "timeWeek": 1841,
-    "timeMonth": 2104,
+    "timeDay": 1241,
+    "timeWeek": 1824,
+    "timeMonth": 2102,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2024-10-09": 11,
       "2024-09-30": 18,
       "2024-09-24": 28,
       "2024-09-10": 33,
@@ -220,7 +219,8 @@
       "2024-05-18": 16,
       "2024-05-16": 38,
       "2024-05-15": 70,
-      "2024-05-14": 29
+      "2024-05-14": 29,
+      "2024-05-13": 22
     }
   },
   {
@@ -234,11 +234,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 7851,
-    "timeDay": 1626,
-    "timeWeek": 2000,
-    "timeMonth": 1919,
-    "timeYear": 7851,
+    "time": 7838,
+    "timeDay": 2335,
+    "timeWeek": 2024,
+    "timeMonth": 1924,
+    "timeYear": 7838,
     "dailyMinutesDown": {
       "2024-08-07": 49,
       "2024-08-06": 27,
@@ -262,11 +262,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1981,
-    "timeDay": 1584,
-    "timeWeek": 2026,
-    "timeMonth": 1913,
-    "timeYear": 1981,
+    "time": 1982,
+    "timeDay": 2170,
+    "timeWeek": 1982,
+    "timeMonth": 1915,
+    "timeYear": 1982,
     "dailyMinutesDown": {
       "2023-12-25": 23
     }
@@ -282,11 +282,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2210,
-    "timeDay": 1786,
-    "timeWeek": 2129,
-    "timeMonth": 1914,
-    "timeYear": 2210,
+    "time": 2211,
+    "timeDay": 2306,
+    "timeWeek": 2156,
+    "timeMonth": 1921,
+    "timeYear": 2211,
     "dailyMinutesDown": {
       "2023-12-25": 22
     }
@@ -303,9 +303,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1761,
-    "timeDay": 1457,
-    "timeWeek": 1727,
-    "timeMonth": 1641,
+    "timeDay": 1981,
+    "timeWeek": 1739,
+    "timeMonth": 1646,
     "timeYear": 1761,
     "dailyMinutesDown": {
       "2024-09-25": 34,
@@ -323,11 +323,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1496,
-    "timeDay": 1416,
-    "timeWeek": 1597,
-    "timeMonth": 1337,
-    "timeYear": 1496,
+    "time": 1497,
+    "timeDay": 1826,
+    "timeWeek": 1651,
+    "timeMonth": 1348,
+    "timeYear": 1497,
     "dailyMinutesDown": {
       "2023-12-25": 18
     }
@@ -343,11 +343,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1743,
-    "timeDay": 1718,
-    "timeWeek": 1933,
-    "timeMonth": 1714,
-    "timeYear": 1743,
+    "time": 1744,
+    "timeDay": 2157,
+    "timeWeek": 1940,
+    "timeMonth": 1724,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2023-12-25": 17
     }
