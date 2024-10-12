@@ -4,18 +4,19 @@
     "url": "https://www.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.37%",
     "time": 1319,
-    "timeDay": 1322,
-    "timeWeek": 1390,
-    "timeMonth": 1370,
+    "timeDay": 1214,
+    "timeWeek": 1372,
+    "timeMonth": 1368,
     "timeYear": 1319,
     "dailyMinutesDown": {
+      "2024-10-12": 0,
       "2024-10-03": 18,
       "2024-09-30": 17,
       "2024-09-28": 19,
@@ -72,7 +73,7 @@
       "2024-05-19": 44,
       "2024-05-18": 16,
       "2024-05-16": 23,
-      "2024-05-15": 69
+      "2024-05-15": 49
     }
   },
   {
@@ -82,17 +83,16 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.48%",
     "time": 638,
-    "timeDay": 816,
+    "timeDay": 724,
     "timeWeek": 717,
     "timeMonth": 713,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2024-10-12": 7,
       "2024-10-05": 34,
       "2024-09-27": 39,
       "2024-09-23": 20,
@@ -148,7 +148,8 @@
       "2024-05-15": 69,
       "2024-05-14": 29,
       "2024-05-13": 21,
-      "2024-05-12": 24
+      "2024-05-12": 24,
+      "2024-05-11": 31
     }
   },
   {
@@ -158,17 +159,16 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.48%",
     "time": 2228,
-    "timeDay": 1441,
+    "timeDay": 1157,
     "timeWeek": 1759,
     "timeMonth": 2060,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2024-10-12": 7,
       "2024-09-30": 18,
       "2024-09-24": 28,
       "2024-09-10": 33,
@@ -220,7 +220,8 @@
       "2024-05-18": 16,
       "2024-05-16": 38,
       "2024-05-15": 70,
-      "2024-05-14": 29
+      "2024-05-14": 29,
+      "2024-05-13": 22
     }
   },
   {
