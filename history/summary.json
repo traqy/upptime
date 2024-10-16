@@ -4,16 +4,16 @@
     "url": "https://www.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.46%",
     "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.37%",
     "time": 1319,
-    "timeDay": 1423,
-    "timeWeek": 1387,
-    "timeMonth": 1367,
+    "timeDay": 1366,
+    "timeWeek": 1378,
+    "timeMonth": 1365,
     "timeYear": 1319,
     "dailyMinutesDown": {
       "2024-10-16": 22,
@@ -74,7 +74,7 @@
       "2024-05-22": 17,
       "2024-05-21": 38,
       "2024-05-20": 67,
-      "2024-05-19": 44
+      "2024-05-19": 19
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.49%",
     "time": 639,
     "timeDay": 672,
@@ -94,7 +94,6 @@
     "timeMonth": 708,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2024-10-16": 7,
       "2024-10-14": 30,
       "2024-10-13": 33,
       "2024-10-12": 2,
@@ -150,7 +149,8 @@
       "2024-05-19": 44,
       "2024-05-18": 16,
       "2024-05-16": 23,
-      "2024-05-15": 69
+      "2024-05-15": 69,
+      "2024-05-14": 29
     }
   },
   {
@@ -160,9 +160,9 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.49%",
     "time": 2228,
     "timeDay": 2481,
@@ -170,7 +170,6 @@
     "timeMonth": 2094,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2024-10-16": 7,
       "2024-10-15": 47,
       "2024-10-14": 34,
       "2024-10-13": 29,
@@ -223,7 +222,8 @@
       "2024-05-20": 67,
       "2024-05-19": 44,
       "2024-05-18": 16,
-      "2024-05-16": 15
+      "2024-05-16": 38,
+      "2024-05-15": 3
     }
   },
   {
