@@ -6,9 +6,9 @@
     "slug": "techin-asia",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.37%",
     "time": 1319,
     "timeDay": 1409,
@@ -16,7 +16,6 @@
     "timeMonth": 1370,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2024-10-17": 8,
       "2024-10-16": 22,
       "2024-10-15": 25,
       "2024-10-14": 34,
@@ -75,7 +74,7 @@
       "2024-05-22": 17,
       "2024-05-21": 38,
       "2024-05-20": 67,
-      "2024-05-19": 19
+      "2024-05-19": 44
     }
   },
   {
@@ -232,10 +231,10 @@
     "url": "https://conference.techinasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/conference.techinasia.com.ico",
     "slug": "techin-asia-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 7744,
@@ -244,6 +243,7 @@
     "timeMonth": 1914,
     "timeYear": 7744,
     "dailyMinutesDown": {
+      "2024-10-17": 2,
       "2024-08-07": 49,
       "2024-08-06": 27,
       "2024-08-04": 25,
