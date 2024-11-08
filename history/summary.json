@@ -86,9 +86,9 @@
     "slug": "techin-asia-word-press-api",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.52%",
     "time": 640,
     "timeDay": 832,
@@ -96,7 +96,6 @@
     "timeMonth": 722,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-11-07": 7,
       "2024-10-30": 17,
       "2024-10-28": 30,
       "2024-10-27": 20,
@@ -154,7 +153,8 @@
       "2024-05-22": 17,
       "2024-05-21": 38,
       "2024-05-20": 67,
-      "2024-05-19": 44
+      "2024-05-19": 44,
+      "2024-05-18": 16
     }
   },
   {
@@ -164,9 +164,9 @@
     "slug": "techin-asia-laravel-api",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.52%",
     "time": 2232,
     "timeDay": 2420,
@@ -174,7 +174,6 @@
     "timeMonth": 2315,
     "timeYear": 2232,
     "dailyMinutesDown": {
-      "2024-11-07": 7,
       "2024-11-04": 26,
       "2024-10-28": 30,
       "2024-10-15": 47,
@@ -227,7 +226,8 @@
       "2024-05-22": 17,
       "2024-05-21": 38,
       "2024-05-20": 67,
-      "2024-05-19": 44
+      "2024-05-19": 44,
+      "2024-05-18": 16
     }
   },
   {
@@ -326,18 +326,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aws.techinasia.com.ico",
     "slug": "techin-asia-aws",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "44.45%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "43.33%",
+    "uptimeWeek": "91.90%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "99.83%",
     "time": 1497,
     "timeDay": 0,
     "timeWeek": 1533,
     "timeMonth": 1511,
     "timeYear": 1497,
     "dailyMinutesDown": {
-      "2024-11-07": 800,
+      "2024-11-08": 14,
+      "2024-11-07": 802,
       "2023-12-25": 18
     }
   },
