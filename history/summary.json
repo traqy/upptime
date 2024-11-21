@@ -87,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-word-press-api",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.54%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.54%",
     "time": 640,
     "timeDay": 652,
     "timeWeek": 693,
     "timeMonth": 703,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-11-21": 24,
+      "2024-11-21": 16,
       "2024-11-18": 15,
       "2024-11-10": 16,
       "2024-10-30": 17,
@@ -157,7 +157,7 @@
       "2024-05-23": 22,
       "2024-05-22": 17,
       "2024-05-21": 38,
-      "2024-05-20": 44
+      "2024-05-20": 67
     }
   },
   {
@@ -165,19 +165,19 @@
     "url": "https://www.techinasia.com/api/2.0/companies",
     "icon": "https://icons.duckduckgo.com/ip3/www.techinasia.com.ico",
     "slug": "techin-asia-laravel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.54%",
     "time": 2232,
-    "timeDay": 3166,
-    "timeWeek": 2463,
-    "timeMonth": 2416,
+    "timeDay": 2431,
+    "timeWeek": 2395,
+    "timeMonth": 2404,
     "timeYear": 2232,
     "dailyMinutesDown": {
-      "2024-11-21": 22,
+      "2024-11-21": 23,
       "2024-11-18": 15,
       "2024-11-08": 25,
       "2024-11-04": 26,
@@ -231,7 +231,7 @@
       "2024-05-23": 22,
       "2024-05-22": 17,
       "2024-05-21": 38,
-      "2024-05-20": 67
+      "2024-05-20": 44
     }
   },
   {
@@ -333,7 +333,7 @@
     "uptime": "96.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.82%",
+    "uptimeMonth": "52.80%",
     "uptimeYear": "96.01%",
     "time": 1497,
     "timeDay": 0,
@@ -341,7 +341,7 @@
     "timeMonth": 1529,
     "timeYear": 1497,
     "dailyMinutesDown": {
-      "2024-11-21": 1143,
+      "2024-11-21": 1153,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
